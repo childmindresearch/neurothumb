@@ -1,0 +1,4 @@
+[Thumbnailer Entry]
+TryExec=/usr/bin/neurothumb
+Exec=/usr/bin/neurothumb %i %o %s
+MimeType=image/nifti
