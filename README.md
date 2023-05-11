@@ -2,6 +2,10 @@
 
 Neuroimaging file thumbnail generator and integration.
 
+![Screenshot 1](doc/screen1.png)
+
+![Screenshot 2](doc/screen2.png)
+
 ## Installation
 
 PSA: This is a working prototype. Prebuilt binaries and automatic install scripts will be provided in the future.
